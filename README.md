@@ -1,1 +1,1 @@
-#Applied Statistics proability theroy.
+#Applied Statistics Labs.
